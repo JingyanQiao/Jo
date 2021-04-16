@@ -1,2 +1,2 @@
-# code
-personal learning and example practice
+# deeplearning
+related projects and learning notes
